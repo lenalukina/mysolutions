@@ -1,0 +1,12 @@
+    def reverseString(self, s: List[str]) -> None:
+        """
+        A function that reverses a string, given as an array of chars, in O(1) time. Two-pointer iteration.
+       
+        """
+        i = 0
+        j = len(s) - 1
+        while i < j:
+            s[i], s[j] = s[j], s[i]
+            i += 1
+            j -= 1
+            

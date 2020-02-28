@@ -9,3 +9,4 @@ Current TODO:
 - add Merge Two Sorted Lists to previous linked list problems
 - add Binary Search Trees functions 
 - add binary solution to "K-th Symbol in Grammar" problem
+- start indexing the library
